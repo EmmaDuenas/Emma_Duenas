@@ -7,10 +7,15 @@ I’m passionate about data analytics and making data-driven decisions. I thrive
 🌱 Currently Learning
 
 Python
+
 R
+
 SQL
+
 Tableau
+
 Power Bi
+
 ML
 
 💞️ Collaboration Interests
